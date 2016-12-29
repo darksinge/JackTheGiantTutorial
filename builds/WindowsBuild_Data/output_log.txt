@@ -1,0 +1,51 @@
+Mono path[0] = 'C:/Users/Craig/Documents/Unity 2D Projects/JackTheGiantTutorial-master/builds/WindowsBuild_Data/Managed'
+Mono path[1] = 'C:/Users/Craig/Documents/Unity 2D Projects/JackTheGiantTutorial-master/builds/WindowsBuild_Data/Mono'
+Mono config path = 'C:/Users/Craig/Documents/Unity 2D Projects/JackTheGiantTutorial-master/builds/WindowsBuild_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Craig/Documents/Unity 2D Projects/JackTheGiantTutorial-master/builds/WindowsBuild_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55272
+Multi-casting "[IP] 10.0.0.17 [Port] 55272 [Flags] 3 [Guid] 1480735742 [EditorId] 247358135 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-JSO3AI1) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55272]...
+PlayerConnection accepted from [10.0.0.17] handle:0x2f8
+Started listening to [0.0.0.0:55272]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56742
+PlayerConnection already initialized - listening to [0.0.0.0:55272]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     4061 MB
+    Driver:   21.21.13.7254
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Craig\Documents\Unity 2D Projects\JackTheGiantTutorial-master\builds\WindowsBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.550532 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.418901 ms
+System memory in use before: 17.6 MB.
+System memory in use after: 17.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 345.
+Total: 0.229720 ms (FindLiveObjects: 0.019478 ms CreateObjectMapping: 0.009893 ms MarkObjects: 0.117488 ms  DeleteObjects: 0.078222 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 22d4 -> priority: 1 
+Waiting for finish
